@@ -1,9 +1,0 @@
-c:\users\scilxurkel\documents\visual studio 2015\Projects\iHateDouyin\iHateDouyin\bin\Debug\iHateDouyin.exe.config
-C:\Users\Scilxurkel\Documents\Visual Studio 2015\Projects\iHateDouyin\iHateDouyin\bin\Debug\iHateDouyin.exe
-C:\Users\Scilxurkel\Documents\Visual Studio 2015\Projects\iHateDouyin\iHateDouyin\bin\Debug\iHateDouyin.pdb
-C:\Users\Scilxurkel\Documents\Visual Studio 2015\Projects\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.csprojResolveAssemblyReference.cache
-C:\Users\Scilxurkel\Documents\Visual Studio 2015\Projects\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.Form1.resources
-C:\Users\Scilxurkel\Documents\Visual Studio 2015\Projects\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.Properties.Resources.resources
-C:\Users\Scilxurkel\Documents\Visual Studio 2015\Projects\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.csproj.GenerateResource.Cache
-C:\Users\Scilxurkel\Documents\Visual Studio 2015\Projects\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.exe
-C:\Users\Scilxurkel\Documents\Visual Studio 2015\Projects\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.pdb
