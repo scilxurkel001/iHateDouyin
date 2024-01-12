@@ -8,4 +8,4 @@ Function: When the program runs, if this computer is accessing Douyin, crash the
 Runtime:
 You need to install **.NET Framework 4.8 Runtime** and **DotNet Core Runtime 8** first to use this software.
 We can only detect Douyin in Microsoft Edge. If you want this software detect URLs in Google Chrome and Firefox, you can wait or make contributions.
-If you want to edit the code, you may need **Visual Studio 2022** , Rider may be good but we don't recommend it.
+If you want to edit the code, you may need **Visual Studio 2022** ***Community*** (We don't want to pay something or use Professional editions to mess up this project), Rider may be good but we don't recommend it.
