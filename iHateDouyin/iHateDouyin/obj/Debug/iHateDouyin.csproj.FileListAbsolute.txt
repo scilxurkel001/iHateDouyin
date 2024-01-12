@@ -1,0 +1,10 @@
+C:\Users\Scilxurkel\source\repos\iHateDouyin\iHateDouyin\bin\Debug\iHateDouyin.exe.config
+C:\Users\Scilxurkel\source\repos\iHateDouyin\iHateDouyin\bin\Debug\iHateDouyin.exe
+C:\Users\Scilxurkel\source\repos\iHateDouyin\iHateDouyin\bin\Debug\iHateDouyin.pdb
+C:\Users\Scilxurkel\source\repos\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.csproj.AssemblyReference.cache
+C:\Users\Scilxurkel\source\repos\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.Form1.resources
+C:\Users\Scilxurkel\source\repos\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.Properties.Resources.resources
+C:\Users\Scilxurkel\source\repos\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.csproj.GenerateResource.cache
+C:\Users\Scilxurkel\source\repos\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.csproj.CoreCompileInputs.cache
+C:\Users\Scilxurkel\source\repos\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.exe
+C:\Users\Scilxurkel\source\repos\iHateDouyin\iHateDouyin\obj\Debug\iHateDouyin.pdb
