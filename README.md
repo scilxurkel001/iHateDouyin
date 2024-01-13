@@ -15,4 +15,4 @@ PS: We can only detect Douyin in Microsoft Edge. If you want this software detec
 
 **Do not use git clone, git pull, or git push to edit this project's code on macOS!**  
 If you must edit it this way, then after committing your changes, **please remove all ".DS_Store" files and "_MACOSX" folders from the committed files.**  
-We don't want these garbages messing up my project!
+We don't want these garbages messing up our project!
